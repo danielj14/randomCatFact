@@ -1,4 +1,4 @@
-#cat facts
+## cat facts
 
 useless cat facts using (some random api)[https://some-random-api.ml/]
 
