@@ -8,10 +8,6 @@ import (
     "log"
 )
 
-type Data struct {
-    fact string
-}
-
 func logError(error error, number int) {
     if error != nil {
         fmt.Println("erro")
