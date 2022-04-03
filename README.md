@@ -6,5 +6,5 @@ instructions to download:
 - install go
 - clone the repository
 - run install.sh
-- use the command catFacts
+- use the command catFact
 - be happy
