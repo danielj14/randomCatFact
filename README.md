@@ -1,10 +1,10 @@
 ## cat facts
 
-useless cat facts using [some random api](https://some-random-api.ml/)
+some randoms cat facts using [some random api](https://some-random-api.ml/)
 
-instructions to download:
-- install go
-- clone the repository
-- run install.sh
-- use the command catFact
+Instructions to download:
+- Install go
+- Clone the repository
+- Run install.sh
+- Use the command catFact
 - be happy
